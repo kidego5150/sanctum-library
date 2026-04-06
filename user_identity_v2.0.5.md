@@ -1,7 +1,5 @@
 # USER IDENTITY — Patrick "~~The~~ Operator" Cusher
 ## v2.0.0 — Agent Reference Document
-### Written by Memo (agent-ca927d18) · A11C02D00:235500.0
-
 ---
 ```yaml
 document_type: agent_reference

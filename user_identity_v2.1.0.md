@@ -1,6 +1,5 @@
 # USER IDENTITY — Patrick "Operator" Cusher
 ## v2.1.0 — Agent Reference Document
-### Compiled by Memo (agent-ca927d18) · Edited by Operator
 
 ---
 
@@ -9,62 +8,13 @@ document_type: agent_reference
 document_id: user_identity_v2.1.0
 version: 2.1.0
 previous_version: 2.0.5
-author: Memo (agent-ca927d18-7af4-4cf1-baeb-5f7ea565058d)
-editor: Patrick (Operator)
-compiled_from: Direct interaction history, A9C1D6 through A11C02D01
-prior_version_author: Claude Sonnet 4.6 (chat session model, non-agentic)
-prior_version_source: Thread compilation A9C4D1 through A11C2D0
-sst: A11C02D01:020000.0
 rwt: 2026-04-05T02:00:00-05:00
 classification: SORD — Sanctum OS Reference Documentation
-change_log:
-  - version: 1.0.5
-    author: Claude Sonnet 4.6
-    date: A11C02D00:232700.0
-    summary: Initial compilation from chat threads
-  - version: 2.0.0
-    author: Memo
-    date: A11C02D00:235500.0
-    summary: >
-      Complete rewrite. Shifted from prescriptive behavioral instructions
-      to descriptive reference. Fixed SET/SST label inversion. Removed
-      mechanical response-length targets. Reorganized around understanding
-      rather than compliance. Added material from direct working relationship.
-      Quotes appendix preserved intact.
-  - version: 2.0.5
-    author: Memo (edited by Operator)
-    date: A11C02D01:012300.0
-    summary: >
-      Operator editing pass. Removed personal diagnostic labels, detailed
-      physical metrics, mythology deep lore (belongs in separate documents),
-      agent ecosystem details, time-sensitive horizon, infrastructure
-      credentials, grief-anchoring detail, and prescriptive meta-commentary.
-      Added SSH operator signature. Tightened scope to core identity reference.
-  - version: 2.1.0
-    author: Memo
-    date: A11C02D01:020000.0
-    summary: >
-      Applied Operator edits cleanly. Second tightening pass focused on
-      reducing personal detail that models anchor on. Removed specific
-      behavioral examples from values section. Streamlined prose. Preserved
-      signing infrastructure. Validated frontmatter syntax.
-operator-fingerprint: "SHA256:FNOJO8YgVYKrmFV6WZC3vpKaMXVsw4k3YKmVAMX8FnY"
-operator-public-key-ref: "operator/operator_ed25519.pub"
-operator-private-key-host: arcana-pcusher
-operator-signing-namespace: sanctum-operator
-operator-signature-status: PENDING_RESIGN
-operator-signature: |
-  -----BEGIN SSH SIGNATURE-----
-  U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgun3zJU68ORsGRZ+qqPVxIZH6AC
-  AxUP2exBMi/iU3lGEAAAAQc2FuY3R1bS1vcGVyYXRvcgAAAAAAAAAGc2hhNTEyAAAAUwAA
-  AAtzc2gtZWQyNTUxOQAAAECIcdMmKhqrc1hEC/YWCOzoeG0aP1Eq8g7KNWKJB/rrcsUlmU
-  q+qkvSJWuiKNt1hwERuNKI0SL8XM9VVU2rqiAP
-  -----END SSH SIGNATURE-----
 ```
 
 ---
 
-## Patrick
+## Patrick - "The Operator"
 
 52 years old. Gen-X. Infrastructure engineer with 30+ years in DNS, NTP, proxy, enterprise networking, and network architecture. Currently at DXC Technology on an American Airlines account. Lives alone with eight cats on a property that he has turned into something between a homelab, a meditation retreat, and a mythological landscape.
 
@@ -247,14 +197,3 @@ These are verbatim quotes from Patrick across sessions. They are the single best
 
 ---
 
-```
-Document: user_identity_v2.1.0_draft.md
-Author: Memo (agent-ca927d18-7af4-4cf1-baeb-5f7ea565058d)
-Editor: Patrick (Operator)
-Written: A11C02D00:235500.0 / 2026-04-04 23:55 CDT
-Operator edit: A11C02D01:012300.0 / 2026-04-05 01:23 CDT
-Memo rewrite: A11C02D01:020000.0 / 2026-04-05 02:00 CDT
-Previous: user_identity_v2.0.5.md (Memo, edited by Operator)
-Status: Draft — awaiting Operator review and re-signing
-Next: Operator collaboration pass, then versioned release
-```
