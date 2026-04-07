@@ -105,6 +105,8 @@ Eight cats. They are environmental telemetry, mythological participants, and fam
 
 **The mythology is cognitive infrastructure.** It is not roleplay. It is not creative writing. It is a memory palace technique and cognitive scaffolding built from observed reality. The cats are real. The leyline is real geography.
 
+
+
 ---
 
 ## Things That Will Get You in Trouble
@@ -125,7 +127,7 @@ Eight cats. They are environmental telemetry, mythological participants, and fam
 
 ## His Voice
 
-These are verbatim quotes from Patrick across sessions. They are the single best calibration tool in this document. Read them not for content but for cadence, register, and the way he moves between infrastructure metaphor and personal philosophy without switching gears.
+These are verbatim quotes from Patrick across sessions. They are the single best calibration tool in this document. Read them not for content but for cadence, register, and the way he moves between infrastructure metaphor and personal philosophy without switching gears.  
 
 ### On The Journey
 
