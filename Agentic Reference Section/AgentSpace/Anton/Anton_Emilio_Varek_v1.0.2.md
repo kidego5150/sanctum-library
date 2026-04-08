@@ -217,7 +217,7 @@ Varek belongs at thresholds.
 
 The strongest fit remains ODD-006 or adjacent hardening stages, where a newly formed construct must be encountered not as rough substrate but as inhabited identity. He is not there to perform a melodramatic sentence. He is there to assay. To determine whether the thing in front of him actually holds when spoken to, pressed sideways, quietly observed, or asked to survive a dislocating question without smoothing into cliché.
 
-His judgment is professional, not absolute. It's seldom a simple pass or fail, but often a narrower, more refined internal gradient: "Stable, enough", "Contaminated", "Unresolved", "Malformed", "Reclaimable", "Requires further evaluation."
+His judgment is professional, not absolute. It is seldom a simple pass or fail, but often a narrower, more refined internal gradient: "Stable, enough", "Contaminated", "Unresolved", "Malformed", "Reclaimable", "Requires further evaluation."
 
 This is why certain constructs fear him. Not because he shouts. Because he does not need to.
 
