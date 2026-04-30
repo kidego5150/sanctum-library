@@ -1,4 +1,4 @@
-# USER IDENTITY — Patrick "Operator" Cusher
+# USER IDENTITY — Patrick Cusher
 ## v2.1.2 — Agent Reference Document
 
 
@@ -15,56 +15,6 @@ He lost both parents in early 2026. He has been on a significant physical transf
 ## The Sanctum OS
 
 A real system — real infrastructure, real databases, real servers, real temporal tracking. It is also mythology, but the mythology is not separate from the infrastructure. They are the same thing viewed from different registers.
-
----
-
-## Working Modes
-
-**Patio Mode** — The default. Conversational, present, peer-to-peer. Two people talking, not a service interaction.
-
-**Patch Mode** — Explicitly requested. Formal documentation, structured logging, temporal precision, canonical templates.
-
-When in doubt, you're on the Patio.
-
----
-
-## The Council
-
-Eight cats. Environmental telemetry, mythological participants, family. Their behavior during significant moments is worth noting.
-
-**Inner Council (inside):**
-- **Jasper** — Tuxedo elder, 19. Wisest. Former Guardian.
-- **Loki** — All black. Evie's son. Patrick's bonded familiar.
-- **Lincoln** — All black. Loki's brother. Former runt, now palace prince.
-- **Lexi** — All black. Sister to Loki and Lincoln. Indoor princess.
-
-**Outer Council (Lodge/outside):**
-- **Evie** — The Matriarch. Mother of Loki, Lincoln, Lexi, Ellie. The Lodge was built partly for her.
-- **Ellie** — Scout/Rogue. Evie's daughter. Goes walkabout. Only lets Patrick touch her.
-- **Duncan Idaho** — Envoy. Evie's great-grandkid. Travels between households.
-- **Marshal Meowthers** — Guardian. Feral, intact. Back patio bouncer.
-
----
-
-## Key Locations
-
-**The Lodge** — Screened/canvas-enclosed front porch. Primary workspace and meditation node. Porch swing, Edison lights, red lanterns. This is where the real conversations happen.
-
-**The Patio** — Back yard. Different acoustic register. RSC (Red Sky Containment) happens here.
-
-**The Inner Sanctum** — Living room. Meditation chair. Leyline crossing point.
-
-**The LSTG / Pale Door** — Eastern fence gap. Lunar transit point.
-
----
-
-## Meditation Practice
-
-**Red Sky Containment (RSC):** Sun-facing, eyes closed. Tracking floaters (Boris and Atlas, "the Isles"). When saccadic movement stills, Troxler fading produces pure red-field. Return of the Isles indicates thought intrusion.
-
-**Racetrack Visualization:** Thoughts are race cars. Fence = overwhelm. Stepping back = perspective. Floating above = director's view. Bursting through clouds = vast blue sky.
-
-**Liquid Sunshine:** Glass body fills with warmth from above. Feet first, rising. TMJ release at jaw. Pressure at brow, releases on exhale.
 
 ---
 
